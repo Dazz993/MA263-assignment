@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.12.10)  13 DEC 2019 09:48
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.12.10)  13 DEC 2019 10:38
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -779,80 +779,80 @@ LaTeX Font Info:    Font shape `TU/FandolSong-Regular(0)/m/sl' in size <10.53937
 (Font)              Font shape `TU/FandolSong-Regular(0)/m/it' tried instead on input line 10.
  [2])
 Missing character: There is no ， in font [lmroman10-regular]:mapping=tex-text;!
-File: 1-1.png Graphic file (type bmp)
-<1-1.png>
-File: 1-2.png Graphic file (type bmp)
-<1-2.png>
-File: 1-3.png Graphic file (type bmp)
-<1-3.png>
-File: 1-4.png Graphic file (type bmp)
-<1-4.png>
-File: 1-5.png Graphic file (type bmp)
-<1-5.png>
-File: 1-6.png Graphic file (type bmp)
-<1-6.png>
-File: 2-1.png Graphic file (type bmp)
-<2-1.png>
-File: 2-2.png Graphic file (type bmp)
-<2-2.png>
-File: 2-3.png Graphic file (type bmp)
-<2-3.png>
-File: 2-4.png Graphic file (type bmp)
-<2-4.png>
-File: 2-5.png Graphic file (type bmp)
-<2-5.png>
-File: 2-6.png Graphic file (type bmp)
-<2-6.png>
+File: fig/1-1.png Graphic file (type bmp)
+<fig/1-1.png>
+File: fig/1-2.png Graphic file (type bmp)
+<fig/1-2.png>
+File: fig/1-3.png Graphic file (type bmp)
+<fig/1-3.png>
+File: fig/1-4.png Graphic file (type bmp)
+<fig/1-4.png>
+File: fig/1-5.png Graphic file (type bmp)
+<fig/1-5.png>
+File: fig/1-6.png Graphic file (type bmp)
+<fig/1-6.png>
+File: fig/2-1.png Graphic file (type bmp)
+<fig/2-1.png>
+File: fig/2-2.png Graphic file (type bmp)
+<fig/2-2.png>
+File: fig/2-3.png Graphic file (type bmp)
+<fig/2-3.png>
+File: fig/2-4.png Graphic file (type bmp)
+<fig/2-4.png>
+File: fig/2-5.png Graphic file (type bmp)
+<fig/2-5.png>
+File: fig/2-6.png Graphic file (type bmp)
+<fig/2-6.png>
  [3]
-File: 3-1.png Graphic file (type bmp)
-<3-1.png>
-File: 3-2.png Graphic file (type bmp)
-<3-2.png>
-File: 3-3.png Graphic file (type bmp)
-<3-3.png>
-File: 3-4.png Graphic file (type bmp)
-<3-4.png>
-File: 3-5.png Graphic file (type bmp)
-<3-5.png>
-File: 3-6.png Graphic file (type bmp)
-<3-6.png>
+File: fig/3-1.png Graphic file (type bmp)
+<fig/3-1.png>
+File: fig/3-2.png Graphic file (type bmp)
+<fig/3-2.png>
+File: fig/3-3.png Graphic file (type bmp)
+<fig/3-3.png>
+File: fig/3-4.png Graphic file (type bmp)
+<fig/3-4.png>
+File: fig/3-5.png Graphic file (type bmp)
+<fig/3-5.png>
+File: fig/3-6.png Graphic file (type bmp)
+<fig/3-6.png>
  [4]
-File: 4-1.png Graphic file (type bmp)
-<4-1.png>
-File: 4-2.png Graphic file (type bmp)
-<4-2.png>
-File: 4-3.png Graphic file (type bmp)
-<4-3.png>
-File: 4-4.png Graphic file (type bmp)
-<4-4.png>
-File: 4-5.png Graphic file (type bmp)
-<4-5.png>
-File: 4-6.png Graphic file (type bmp)
-<4-6.png>
+File: fig/4-1.png Graphic file (type bmp)
+<fig/4-1.png>
+File: fig/4-2.png Graphic file (type bmp)
+<fig/4-2.png>
+File: fig/4-3.png Graphic file (type bmp)
+<fig/4-3.png>
+File: fig/4-4.png Graphic file (type bmp)
+<fig/4-4.png>
+File: fig/4-5.png Graphic file (type bmp)
+<fig/4-5.png>
+File: fig/4-6.png Graphic file (type bmp)
+<fig/4-6.png>
  [5]
-File: 5-1.png Graphic file (type bmp)
-<5-1.png>
-File: 5-2.png Graphic file (type bmp)
-<5-2.png>
-File: 5-3.png Graphic file (type bmp)
-<5-3.png>
-File: 5-4.png Graphic file (type bmp)
-<5-4.png>
-File: 5-5.png Graphic file (type bmp)
-<5-5.png>
-File: 5-6.png Graphic file (type bmp)
-<5-6.png>
+File: fig/5-1.png Graphic file (type bmp)
+<fig/5-1.png>
+File: fig/5-2.png Graphic file (type bmp)
+<fig/5-2.png>
+File: fig/5-3.png Graphic file (type bmp)
+<fig/5-3.png>
+File: fig/5-4.png Graphic file (type bmp)
+<fig/5-4.png>
+File: fig/5-5.png Graphic file (type bmp)
+<fig/5-5.png>
+File: fig/5-6.png Graphic file (type bmp)
+<fig/5-6.png>
  [6]
-File: 6-1.png Graphic file (type bmp)
-<6-1.png>
-File: 6-2.png Graphic file (type bmp)
-<6-2.png>
-File: 6-3.png Graphic file (type bmp)
-<6-3.png>
-File: 6-4.png Graphic file (type bmp)
-<6-4.png>
-File: 6-5.png Graphic file (type bmp)
-<6-5.png>
+File: fig/6-1.png Graphic file (type bmp)
+<fig/6-1.png>
+File: fig/6-2.png Graphic file (type bmp)
+<fig/6-2.png>
+File: fig/6-3.png Graphic file (type bmp)
+<fig/6-3.png>
+File: fig/6-4.png Graphic file (type bmp)
+<fig/6-4.png>
+File: fig/6-5.png Graphic file (type bmp)
+<fig/6-5.png>
  [7] 
 AED: lastpage setting LastPage
 [8] (./report.aux)
@@ -865,8 +865,8 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 19760 strings out of 492916
- 444329 string characters out of 6133344
+ 19761 strings out of 492916
+ 444753 string characters out of 6133344
  533907 words of memory out of 5000000
  23575 multiletter control sequences out of 15000+600000
  547272 words of font info for 101 fonts, out of 8000000 for 9000
